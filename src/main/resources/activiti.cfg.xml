@@ -7,7 +7,7 @@
         <property name="jdbcDriver" value="com.mysql.jdbc.Driver" />
         <property name="jdbcUrl" value="jdbc:mysql://127.0.0.1:3306/activiti426?useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull" />
         <property name="jdbcUsername" value="root" />
-        <property name="jdbcPassword" value="jqt2017*" />
+        <property name="jdbcPassword" value="123456" />
         <!--表示没有表，自动创建表-->
         <property name="databaseSchemaUpdate" value="true"/>
     </bean>
